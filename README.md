@@ -15,7 +15,7 @@ WeChat 聊天记录提取脚本文档
 
 pip install uiautomation
 
-打开微信并保证微信在前台允许
+打开微信并保证微信在前台运行
 
 运行脚本：运行ichat_log.py脚本来提取聊天记录。
 
